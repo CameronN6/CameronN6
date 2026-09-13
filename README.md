@@ -1,6 +1,6 @@
 ## Hi there 👋
 git --version
-
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 <!--
 **CameronN6/CameronN6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
