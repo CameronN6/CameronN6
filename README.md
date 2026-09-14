@@ -27,3 +27,8 @@ I'm currently learning and developing skills in:
 ## Projects
 
 I'm currently working on school projects and building my programming experience as I continue my Computer Science degree.
+
+## Connect With Me
+
+- GitHub: https://github.com/CameronN6
+- LinkedIn: Coming soon
