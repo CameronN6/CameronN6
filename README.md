@@ -31,7 +31,6 @@ I'm currently working on school projects and building my programming experience 
 ## Connect With Me
 
 - GitHub: https://github.com/CameronN6
-- LinkedIn: Coming soon
 
 ## About Me
 
