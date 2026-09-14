@@ -32,3 +32,9 @@ I'm currently working on school projects and building my programming experience 
 
 - GitHub: https://github.com/CameronN6
 - LinkedIn: Coming soon
+
+## About Me
+
+Outside of coding, I enjoy cooking, playing video games, spending time outdoors, and spending time with my family.
+
+I'm excited to continue growing as a developer, learning new technologies, and eventually becoming a software engineer.
