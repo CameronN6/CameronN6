@@ -28,3 +28,7 @@ I'm continuing to develop my skills in software engineering, backend development
 
 [LinkedIn](https://www.linkedin.com/in/cameron-newborn-a6631a334/)
 [GitHub](https://github.com/CameronN6)
+## Featured Projects
+
+- [Social Media App](https://github.com/CameronN6/social-media-app)
+- [COMPS Assignment 2](https://github.com/CameronN6/COMPSVIII-Assignment2)
